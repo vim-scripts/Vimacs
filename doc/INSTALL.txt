@@ -1,0 +1,13 @@
+						*vimacs-win32-quickstart*
+
+Firstly, you'll need Vim 6 installed.  Vimacs won't work on older
+versions.
+
+To install Vimacs, copy the .txt file in the archive to your Vim
+documentation directory (typically "C:\Program Files\vim\vimfiles\doc"),
+and copy the .vim file to your plugin directory (typically "C:\Program
+Files\vim\vimfiles\plugin").
+
+See the |vimacs-installation| topic in the main Vimacs help file for full
+information.
+
